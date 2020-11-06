@@ -4,6 +4,6 @@ Instruktioner:
 
 RESET-knappen återställer allt (obviously).
 
-Första knappen ändrar bakgrundsfärg på första produkten, ändrar titeln för andra produkten och tar bort header-taggen. 
+Första knappen ändrar bakgrundsfärg på första produkten, ändrar titeln för andra produkten, tar bort header-taggen och lägger till en lista.
 
-Tredje knappen ändrar bilden i tredje produkten, paragrafen i footern och färgen på själva knappen.
+Tredje knappen ändrar bilden i tredje produkten, adressen i footern och färgen på själva knappen.
