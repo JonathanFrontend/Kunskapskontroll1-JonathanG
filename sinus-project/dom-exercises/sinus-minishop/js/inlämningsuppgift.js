@@ -41,7 +41,7 @@ function resetAll(){
     133 37, Rampnäs`;
     
     knapp3.style.backgroundColor = '#222';
-    knapp3.innerText = 'btn';
+    knapp3.innerText = 'buy';
 
     let header = document.querySelector('header');
     header.innerHTML = `<img src="img/sinus-logo.svg" alt="sinus" class="logo">
